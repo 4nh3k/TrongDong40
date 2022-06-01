@@ -1,0 +1,177 @@
+[
+  {
+    "backcolor": "#ffffff",
+    "name": "TrongDong40",
+    "author": "4nh3k",
+    "notes": "This is a 40% layout, Alice clone keyboard I designed. This was designed for my future hand-wired project, and it's my first time designing a keyboard, so it's not the best, but I'm trying to make it look good, be compatible with most of the keycap set(except the 2u space), and fit my needs.\nThe Keyboard name mean Bronze Drum in Vietnamese, it's the sacred symbol of my national culture.\nThe Caplocks was removed cause i mainly use Colemak.",
+    "background": {
+      "name": "PBT WAN",
+      "style": "background-image: url('/bg/plastic/pbt-wan.png');"
+    },
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Tea",
+    "plate": true,
+    "pcb": false
+  },
+  [
+    {
+      "y": 2.3,
+      "x": 0.75,
+      "a": 7,
+      "f": 1
+    },
+    "ESC",
+    "Q",
+    {
+      "x": 9.5
+    },
+    "P",
+    {
+      "a": 5
+    },
+    "\n[\n\n\n\n\n{",
+    "\n]\n\n\n\n\n}"
+  ],
+  [
+    {
+      "x": 0.4,
+      "a": 7,
+      "w": 1.5
+    },
+    "TAB",
+    "A",
+    {
+      "x": 9.7,
+      "a": 5
+    },
+    "\n;\n\n\n\n\n:",
+    "\n'\n\n\n\n\n\"",
+    {
+      "a": 7
+    },
+    "ENTER"
+  ],
+  [
+    {
+      "x": 0.5,
+      "w": 1.75
+    },
+    "SHIFT",
+    "Z",
+    {
+      "x": 9,
+      "a": 5
+    },
+    "\n.\n\n\n\n\n>",
+    "\n/\n\n\n\n\n?",
+    {
+      "a": 7
+    },
+    "SHIFT"
+  ],
+  [
+    {
+      "x": 0.5,
+      "w": 1.25
+    },
+    "CTRL",
+    {
+      "w": 1.25
+    },
+    "WINDOW",
+    {
+      "x": 9.5,
+      "w": 1.25
+    },
+    "FN",
+    {
+      "w": 1.25
+    },
+    "CTRL"
+  ],
+  [
+    {
+      "r": 10,
+      "rx": 3,
+      "ry": 4.25,
+      "y": -2,
+      "x": -0.25
+    },
+    "W",
+    "E",
+    "R",
+    "T"
+  ],
+  [
+    "S",
+    "D",
+    "F",
+    "G"
+  ],
+  [
+    {
+      "x": 0.5
+    },
+    "X",
+    "C",
+    "V",
+    "B"
+  ],
+  [
+    {
+      "x": 1.25,
+      "w": 1.25
+    },
+    "ALT",
+    {
+      "w": 2
+    },
+    "BACKSPACE"
+  ],
+  [
+    {
+      "r": -10,
+      "rx": 12.5,
+      "y": -2,
+      "x": -4.25
+    },
+    "Y",
+    "U",
+    "I",
+    "O"
+  ],
+  [
+    {
+      "x": -4
+    },
+    "H",
+    "J",
+    "K",
+    "L"
+  ],
+  [
+    {
+      "x": -4.5
+    },
+    "SUPER",
+    "N",
+    "M",
+    {
+      "a": 5
+    },
+    "\n,\n\n\n\n\n<"
+  ],
+  [
+    {
+      "x": -4.5,
+      "a": 7,
+      "w": 2
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "ALT"
+  ]
+]
