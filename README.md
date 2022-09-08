@@ -10,6 +10,6 @@ This is a 40% layout, Alice clone keyboard I designed. This was designed for my 
 ## Front
 ![Front side](pic/front.jpg)
 # ToDo
-- Acrylic sandwich case(I lost it :()
+- Acrylic sandwich case(I lost it)
 - PCB
 - 3D printable case 
